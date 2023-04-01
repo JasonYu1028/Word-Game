@@ -47,13 +47,3 @@ Press any key to start the game.
 <p align="center">
     <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/gameplay.gif" width="1000">
 </p>
-
-
-
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
-# Word-Game
